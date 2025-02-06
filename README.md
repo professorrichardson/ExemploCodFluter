@@ -2,9 +2,9 @@
 Código  flutter para criar a primeira tela
 
 IDE ON-LINE para rodar o Flutter (https://flutlab.io/)
-#########################################################################################################################
+###########################################################################################################
 [Download Android Studio](https://developer.android.com/studio?hl=pt-br)
-#########################################################################################################################
+###########################################################################################################
 
 Para criar uma tela de login simples no Android Studio com um título, campos de email e senha, e um botão que exibe uma mensagem ao ser clicado, siga o passo a passo abaixo:
 
